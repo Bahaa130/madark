@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'title' => 'Quiz Maker',
+    'subtitle' => 'Create interactive quizzes to measure learner progress',
+    'existing' => 'Existing quizzes',
+    'questions' => 'questions',
+    'passingScore' => 'Passing score',
+    'attempts' => 'attempts',
+    'maker' => 'Create new quiz',
+    'quizTitle' => 'Quiz title',
+    'quizTitlePlaceholder' => 'e.g. Section 1 quiz',
+    'selectJourney' => 'Select journey',
+    'question' => 'Question',
+    'questionPlaceholder' => 'Type your question here…',
+    'optionPlaceholder' => 'Option…',
+    'addOption' => 'option',
+    'addQuestion' => 'Add question',
+    'createQuiz' => 'Create quiz',
+    'enrollFirst' => 'Join the journey first to take this quiz',
+    'passed' => 'Congratulations, you passed!',
+    'failed' => 'Not passed this time',
+    'score' => 'Score',
+    'previousAttempts' => 'Your previous attempts',
+    'submitAnswers' => 'Submit answers',
+    'achievementDesc' => 'Passed a journey quiz',
+];

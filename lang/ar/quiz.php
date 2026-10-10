@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'title' => 'صانع الاختبارات',
+    'subtitle' => 'أنشئ اختبارات تفاعلية لقياس تقدم المتعلمين',
+    'existing' => 'الاختبارات الحالية',
+    'questions' => 'أسئلة',
+    'passingScore' => 'درجة النجاح',
+    'attempts' => 'محاولة',
+    'maker' => 'إنشاء اختبار جديد',
+    'quizTitle' => 'عنوان الاختبار',
+    'quizTitlePlaceholder' => 'مثال: اختبار الوحدة الأولى',
+    'selectJourney' => 'اختر رحلة',
+    'question' => 'سؤال',
+    'questionPlaceholder' => 'اكتب السؤال هنا…',
+    'optionPlaceholder' => 'الخيار…',
+    'addOption' => 'خيار',
+    'addQuestion' => 'إضافة سؤال',
+    'createQuiz' => 'إنشاء الاختبار',
+    'enrollFirst' => 'انضم إلى الرحلة أولاً لخوض الاختبار',
+    'passed' => 'مبروك! لقد نجحت',
+    'failed' => 'لم تنجح هذه المرة',
+    'score' => 'النتيجة',
+    'previousAttempts' => 'محاولاتك السابقة',
+    'submitAnswers' => 'إرسال الإجابات',
+    'achievementDesc' => 'نجحت في اختبار رحلة تدريبية',
+];
